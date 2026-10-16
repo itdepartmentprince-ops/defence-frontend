@@ -14,16 +14,16 @@ app.prepare()
         createServer((req, res) => {
             const parsedUrl = parse(req.url, true);
 
-            // Normalize trailing slashes for basePath so /test/ routes directly to /test
-            if (parsedUrl.pathname === "/test/") {
+            // Normalize homepage so both /test and /test/ always hit the homepage
+            if (req.url === "/test/" || req.url === "/test") {
+                req.url = "/test";
                 parsedUrl.pathname = "/test";
-            } else if (
-                parsedUrl.pathname.length > 6 &&
-                parsedUrl.pathname.startsWith("/test/") &&
-                parsedUrl.pathname.endsWith("/") &&
-                !parsedUrl.pathname.startsWith("/test/_next")
-            ) {
-                parsedUrl.pathname = parsedUrl.pathname.slice(0, -1);
+                parsedUrl.path = "/test";
+                parsedUrl.href = "/test";
+            } else if (req.url.startsWith("/test/?")) {
+                const search = req.url.slice(6);
+                req.url = `/test${search}`;
+                parsedUrl.pathname = "/test";
             }
 
             console.log(`[Next] ${req.method} ${req.url} -> ${parsedUrl.pathname}`);
