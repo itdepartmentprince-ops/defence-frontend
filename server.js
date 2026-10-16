@@ -12,16 +12,29 @@ const port = parseInt(process.env.PORT, 10) || 3000;
 app.prepare()
     .then(() => {
         createServer((req, res) => {
-            // Normalize any variation of homepage (/ or /test or /test/) to /test
-            if (req.url === "/" || req.url === "/test" || req.url === "/test/") {
+            const rawUrl = req.url || "/";
+
+            // Normalize any variation of homepage to /test
+            if (
+                rawUrl === "/" ||
+                rawUrl === "/test" ||
+                rawUrl === "/test/" ||
+                rawUrl === "/test/index.php" ||
+                rawUrl === "/test/index.html" ||
+                rawUrl === "/index.php" ||
+                rawUrl === "/index.html"
+            ) {
                 req.url = "/test";
-            } else if (req.url.startsWith("/?")) {
-                req.url = "/test" + req.url.slice(1);
-            } else if (req.url.startsWith("/test/?")) {
-                req.url = "/test?" + req.url.slice(7);
+            } else if (rawUrl.startsWith("/?")) {
+                req.url = "/test" + rawUrl.slice(1);
+            } else if (rawUrl.startsWith("/test/?")) {
+                req.url = "/test?" + rawUrl.slice(7);
+            } else if (rawUrl.startsWith("/test/index.php?")) {
+                req.url = "/test?" + rawUrl.slice(16);
             }
 
             const parsedUrl = parse(req.url, true);
+            console.log(`[Next] ${req.method} ${rawUrl} -> ${req.url}`);
             handle(req, res, parsedUrl);
         }).listen(port, (err) => {
             if (err) throw err;
