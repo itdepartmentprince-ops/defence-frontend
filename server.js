@@ -11,23 +11,23 @@ const port = parseInt(process.env.PORT, 10) || 3000;
 
 app.prepare()
     .then(() => {
-        createServer((req, res) => {
-            const parsedUrl = parse(req.url, true);
+        createServer(async (req, res) => {
+            try {
+                const parsedUrl = parse(req.url, true);
+                const pathname = parsedUrl.pathname || "";
+                const cleanPath = pathname.replace(/\/+$/, "");
 
-            // Normalize homepage so both /test and /test/ always hit the homepage
-            if (req.url === "/test/" || req.url === "/test") {
-                req.url = "/test";
-                parsedUrl.pathname = "/test";
-                parsedUrl.path = "/test";
-                parsedUrl.href = "/test";
-            } else if (req.url.startsWith("/test/?")) {
-                const search = req.url.slice(6);
-                req.url = `/test${search}`;
-                parsedUrl.pathname = "/test";
+                // Explicitly render the Home page for /test, /test/, and /
+                if (cleanPath === "/test" || cleanPath === "") {
+                    return await app.render(req, res, "/", parsedUrl.query);
+                }
+
+                await handle(req, res, parsedUrl);
+            } catch (err) {
+                console.error("Error occurred handling", req.url, err);
+                res.statusCode = 500;
+                res.end("Internal Server Error");
             }
-
-            console.log(`[Next] ${req.method} ${req.url} -> ${parsedUrl.pathname}`);
-            handle(req, res, parsedUrl);
         }).listen(port, (err) => {
             if (err) throw err;
             console.log(`> Next.js Frontend Server ready on port ${port} (Production Mode)`);

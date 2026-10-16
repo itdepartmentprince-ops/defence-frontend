@@ -21,6 +21,7 @@ const cspValue = [
 
 const nextConfig = {
     basePath: basePath === "" ? undefined : basePath,
+    skipTrailingSlashRedirect: true,
     images: {
         formats: ["image/avif", "image/webp"],
 
