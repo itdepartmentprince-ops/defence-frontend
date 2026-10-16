@@ -11,23 +11,18 @@ const port = parseInt(process.env.PORT, 10) || 3000;
 
 app.prepare()
     .then(() => {
-        createServer(async (req, res) => {
-            try {
-                const parsedUrl = parse(req.url, true);
-                const pathname = parsedUrl.pathname || "";
-                const cleanPath = pathname.replace(/\/+$/, "");
-
-                // Explicitly render the Home page for /test, /test/, and /
-                if (cleanPath === "/test" || cleanPath === "") {
-                    return await app.render(req, res, "/", parsedUrl.query);
-                }
-
-                await handle(req, res, parsedUrl);
-            } catch (err) {
-                console.error("Error occurred handling", req.url, err);
-                res.statusCode = 500;
-                res.end("Internal Server Error");
+        createServer((req, res) => {
+            // Normalize any variation of homepage (/ or /test or /test/) to /test
+            if (req.url === "/" || req.url === "/test" || req.url === "/test/") {
+                req.url = "/test";
+            } else if (req.url.startsWith("/?")) {
+                req.url = "/test" + req.url.slice(1);
+            } else if (req.url.startsWith("/test/?")) {
+                req.url = "/test?" + req.url.slice(7);
             }
+
+            const parsedUrl = parse(req.url, true);
+            handle(req, res, parsedUrl);
         }).listen(port, (err) => {
             if (err) throw err;
             console.log(`> Next.js Frontend Server ready on port ${port} (Production Mode)`);
