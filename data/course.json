@@ -1,0 +1,1851 @@
+{
+  "pageType": "defence-exam-guide",
+  "title": "Defence Exams Eligibility & Selection Process",
+  "description": "Eligibility criteria, exam patterns, physical standards, documents and selection procedures for defence recruitment exams.",
+  "tocEnabled": true,
+  "tocType": "dynamic",
+  "navbar": [
+    {
+      "name": "NDA",
+      "slug": "nda",
+      "icon": "FaAward",
+      "color": "#D4AF37"
+    },
+    {
+      "name": "Air Force",
+      "slug": "AirForce",
+      "icon": "GiJetFighter",
+      "color": "#5D8AA8"
+    },
+    
+    {
+      "name": "Navy",
+      "slug": "navy",
+      "icon": "FaAnchor",
+      "color": "#002060"
+    },
+    {
+      "name": "Army",
+      "slug": "army",
+      "icon": "FaShieldAlt",
+      "color": "#4B5320"
+    },{
+      "name": "SSC",
+      "slug": "ssc",
+      "icon": "FaShieldAlt",
+      "color": "#000080"
+    }
+    
+    
+  ],
+  "exams": [
+    {
+      "title": "NDA Exam Guide",
+      "slug": "nda",
+      "category": "UPSC NDA",
+      "image": "/images/nda.webp",
+      "contentNote": "The Indian Army offers young candidates an opportunity to become officers through the National Defence Academy (NDA). For NDA (I) 2026, the UPSC examination provides entry to the Army, Navy, and Air Force wings of the NDA. The Army Wing has 208 vacancies, including 198 for male candidates and 10 for female candidates. The selected candidates undergo training at the National Defence Academy before moving ahead for further service training. The NDA selection is not based only on the written exam. Candidates first have to qualify the UPSC written examination and then appear for the Services Selection Board (SSB) Intelligence and Personality Test. Final selection is based on merit, medical fitness, eligibility, and the available vacancies.",
+      "sections": [
+        {
+          "id": "overview",
+          "heading": "Overview",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Indian Army offers young candidates an opportunity to become officers through the National Defence Academy (NDA). For NDA (I) 2026, the UPSC examination provides entry to the Army, Navy, and Air Force wings of the NDA. The Army Wing has 208 vacancies, including 198 for male candidates and 10 for female candidates. The selected candidates undergo training at the National Defence Academy before moving ahead for further service training. The NDA selection is not based only on the written exam. Candidates first have to qualify the UPSC written examination and then appear for the Services Selection Board (SSB) Intelligence and Personality Test. Final selection is based on merit, medical fitness, eligibility, and the available vacancies."
+            }
+          ]
+        },
+        {
+          "id": "posts-offered-through-nda",
+          "heading": "Posts Offered Through NDA",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Through the NDA entry, candidates are trained to become officers in the three defence services. After completing the required training, they are commissioned as Lieutenant in the Army, Sub Lieutenant in the Navy, or Flying Officer in the Air Force"
+            }
+          ]
+        },
+        {
+          "id": "nda-exam-syllabus",
+          "heading": "NDA Exam Syllabus",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The NDA syllabus is designed to test a candidate’s basic knowledge, reasoning ability, mathematical skills and understanding of English. The written examination consists of two papers: Mathematics and General Ability Test (GAT). The syllabus for both papers is given below."
+            }
+          ]
+        },
+        {
+          "id": "nda-mathematics-syllabus",
+          "heading": "NDA Mathematics Syllabus",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Mathematics paper covers topics mainly based on the Class 11 and 12 level. Important topics include:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Sets, Relations and Functions",
+                "Algebra",
+                "Matrices and Determinants",
+                "Trigonometry",
+                "Analytical Geometry",
+                "Differential Calculus",
+                "Integral Calculus",
+                "Vector Algebra",
+                "Statistics",
+                "Probability",
+                "Logarithms and Complex Numbers",
+                "Quadratic Equations",
+                "Sequence and Series",
+                "Permutation and Combination",
+                "Binomial Theorem"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nda-general-ability-test-gat-syllabus",
+          "heading": "NDA General Ability Test (GAT) Syllabus",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The GAT paper is divided into English and General Knowledge. It checks candidates' language skills as well as their awareness of subjects such as science, history, geography and current affairs. English:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Grammar and Usage",
+                "Vocabulary",
+                "Comprehension",
+                "Sentence Formation",
+                "Synonyms and Antonyms",
+                "Correct Usage of Words"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "General Knowledge:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Physics",
+                "Chemistry",
+                "General Science",
+                "History and Freedom Movement",
+                "Geography",
+                "Current Events",
+                "Important National and International Developments",
+                "Defence-related General Knowledge"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nda-complete-eligibility-criteria",
+          "heading": "NDA Complete Eligibility Criteria",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The NDA eligibility criteria define the basic requirements that candidates must fulfil to appear for the National Defence Academy examination. These conditions mainly cover nationality, age limit, educational qualification, marital status, and physical fitness."
+            }
+          ]
+        },
+        {
+          "id": "nationality",
+          "heading": "Nationality",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates must meet the nationality conditions mentioned in the notification. A candidate can be a citizen of India, a subject of Nepal, or a person of Indian origin who has migrated from specified countries with the intention of permanently settling in India, subject to the prescribed conditions."
+            }
+          ]
+        },
+        {
+          "id": "age-limit",
+          "heading": "Age Limit",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The age limit for applying for the NDA recruitment is 16.5 to 19.5 years. There is no category-based age relaxation criteria set by the officials."
+            }
+          ]
+        },
+        {
+          "id": "educational-qualification",
+          "heading": "Educational Qualification",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "For the Army Wing of NDA, candidates must have passed Class 12 under the 10+2"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "pattern or an equivalent examination from a recognised State Education Board or University."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Candidates appearing in Class 12 can also apply. However, candidates appearing in"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Class 11 are not eligible. Those appearing in Class 12 must submit proof of passing by the prescribed date mentioned in the notification."
+            },
+            {
+              "type": "list",
+              "items": [
+                "For comparison, candidates applying for the Navy or Air Force wings must have passed"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Class 12 with Physics, Chemistry and Mathematics (PCM)."
+            }
+          ]
+        },
+        {
+          "id": "other-eligibility-conditions",
+          "heading": "Other Eligibility Conditions",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates must be physically fit according to the prescribed NDA medical standards. A candidate who has resigned or withdrawn from an Armed Forces training academy on disciplinary grounds is also not eligible."
+            }
+          ]
+        },
+        {
+          "id": "nda-physical-standards",
+          "heading": "NDA Physical Standards",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The physical requirements mainly include height, weight, body development and overall physical fitness. Candidates should have a well-developed physique, proportionate weight and no physical condition that may affect their ability to perform military duties."
+            }
+          ]
+        },
+        {
+          "id": "nda-height-and-weight-requirements",
+          "heading": "NDA Height and Weight Requirements",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidate Minimum Height Male 157 cm Female 152 cm Male – specified relaxed categories 152–155 cm Female – specified relaxed categories 147–150 cm Flying Branch 163 cm"
+            }
+          ]
+        },
+        {
+          "id": "nda-weight-requirements",
+          "heading": "NDA Weight Requirements",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Weight should be proportionate to height and age. The PDF provides detailed height-weight charts for male and female candidates. Candidates below the prescribed minimum weight are not accepted. Candidates above the specified weight may be considered only in exceptional cases, such as documented muscular build, bodybuilding, wrestling, or boxing, and they must satisfy additional health parameters."
+            },
+            {
+              "type": "list",
+              "items": [
+                "BMI: Below 25 for the relevant category",
+                "Waist-to-hip ratio: Below 0.9 for males and 0.8 for females",
+                "Waist circumference: Less than 90 cm for males and 80 cm for females",
+                "Biochemical and metabolic parameters should be within normal limits"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nda-medical-eligibility",
+          "heading": "NDA Medical Eligibility",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "A candidate recommended by the Services Selection Board (SSB) undergoes a medical examination by a Board of Service Medical Officers. Only candidates declared medically fit are admitted to the Academy. Candidates declared unfit are informed about the procedure for an Appeal Medical Board (AMB)."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Eyes & Vision: Required vision, normal colour perception and eye movements.",
+                "Hearing: Good hearing with no major ear, nose or throat problems.",
+                "Speech: No significant speech defect.",
+                "Chest & Respiratory System: Well-developed chest with healthy heart and lungs.",
+                "Limbs & Joints: Properly formed limbs with normal joint movement.",
+                "Abdomen: No hernia or major abdominal abnormality.",
+                "Teeth & Gums: Enough healthy teeth for proper chewing.",
+                "Genito-Urinary System: No significant disease or abnormality.",
+                "Skin: No disqualifying skin condition.",
+                "Neurological & Musculoskeletal Health: No condition affecting movement, balance or"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "physical performance."
+            }
+          ]
+        },
+        {
+          "id": "nda-vision-standards",
+          "heading": "NDA Vision Standards",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "For 10+2 entries, including NDA Army, the document specifies: Vision Parameter Standard Uncorrected vision 6/36 and 6/36 Best Corrected Visual Acuity 6/6 in both eyes Myopia Less than -2.5 D spherical, including astigmatism up to ±2.0 D cylinder Hypermetropia Less than +2.5 D spherical, including astigmatism up to ±2.0 D cylinder Colour Perception CP-II"
+            }
+          ]
+        },
+        {
+          "id": "documents-required-for-nda-application-and-ssb",
+          "heading": "Documents Required for NDA Application and SSB",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates should keep their important documents ready before filling out the application. The notification requires candidates to provide information relating to their date of birth and educational qualification and details of a valid photo ID."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Aadhaar Card or another valid photo ID",
+                "Matriculation/10th certificate as proof of date of birth",
+                "Class 12 certificate or marksheet, wherever applicable",
+                "Relevant educational documents",
+                "Other supporting documents required for specific claims",
+                "Fee exemption certificate, wherever applicable"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "how-to-apply-for-nda-2026",
+          "heading": "How to Apply for NDA 2026",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates have to apply online through the UPSC application portal. No other mode of application is allowed."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Visit the UPSC online application portal.",
+                "Create the required account/profile.",
+                "Complete the Universal Registration Number (URN) process.",
+                "Fill the Common Application Form.",
+                "Complete the examination-specific application.",
+                "Enter educational, personal, and other required details carefully.",
+                "Upload the required photograph and capture the live photograph as instructed.",
+                "Provide the details of a valid photo ID.",
+                "Select the examination centre and service preferences carefully.",
+                "Pay the applicable examination fee.",
+                "Review the form and submit it before the deadline."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "nda-exam-date",
+          "heading": "NDA Exam Date",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Union Public Service Commission (UPSC) conducts the NDA examination in two sessions. Candidates should keep checking the official notification for the final exam schedule and application dates. NDA Exam Expected Exam Date NDA & NA (I) April NDA & NA (II) September"
+            }
+          ]
+        },
+        {
+          "id": "nda-selection-process",
+          "heading": "NDA Selection Process",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The NDA selection process is conducted in multiple stages. Candidates need to perform well at every stage because clearing the written examination alone does not guarantee admission."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Written Examination"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The first stage is the UPSC written examination consisting of Mathematics and General Ability Test (GAT). Candidates must obtain the minimum qualifying marks prescribed by the Commission."
+            },
+            {
+              "type": "list",
+              "items": [
+                "SSB Intelligence and Personality Test"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Candidates who qualify in the written examination are called for the Services Selection Board (SSB). The SSB assesses candidates through intelligence, psychological and personality-related tests and evaluates their suitability for becoming officers. The SSB follows a two-stage selection procedure. Candidates first undergo the Stage-I tests. Those who qualify proceed to Stage-II and the remaining tests."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Medical Examination"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Candidates recommended by the SSB must meet the prescribed medical and physical standards. Medical fitness is an essential condition for final admission."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Final Merit List"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "The final selection is made on the basis of the candidate's performance in the written examination and SSB tests, along with eligibility, medical fitness, merit, and service preference. Selection is made according to the number of vacancies available."
+            }
+          ]
+        },
+        {
+          "id": "why-choose-prince-defence-academy-for-nda",
+          "heading": "Why Choose Prince Defence Academy for NDA?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Prince Defence Academy (PDA) is one of the best NDA defence academies in Sikar, known for focused NDA preparation and disciplined training. The academy has experienced defence experts, including retired NDA/defence professionals, who guide students with practical knowledge of the selection process. PDA also focuses on written exams, SSB, physical fitness, and personality development."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Indian Air Force Agniveervayu",
+      "slug": "AirForce",
+      "category": "Indian Air Force",
+      "image": "/images/airforce.webp",
+      "contentNote": "Joining the Indian Air Force is the dream of many young aspirants who want to serve the nation while working in a challenging and disciplined environment. Prince Defence Academy Sikar provides structured coaching for students preparing for various Indian Air Force recruitment and entrance examinations. The academy focuses on academic preparation, regular practice, physical fitness, and overall personality development to help students prepare for the different stages of the selection process.",
+      "sections": [
+        {
+          "id": "overview",
+          "heading": "Overview",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Joining the Indian Air Force is the dream of many young aspirants who want to serve the nation while working in a challenging and disciplined environment. Prince Defence Academy Sikar provides structured coaching for students preparing for various Indian Air Force recruitment and entrance examinations. The academy focuses on academic preparation, regular practice, physical fitness, and overall personality development to help students prepare for the different stages of the selection process."
+            }
+          ]
+        },
+        {
+          "id": "what-is-the-agniveervayu-scheme",
+          "heading": "What is the Agniveervayu Scheme?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Agniveervayu scheme was introduced under the Agnipath Scheme in 2022 as a new route for young candidates to join the Indian Air Force as Agniveervayu. Under this scheme, eligible candidates are recruited for a four-year period, subject to the applicable terms and conditions. It provides young aspirants with an opportunity to gain experience and serve in the Indian Air Force, while a certain percentage of each batch may be selected for further service in the regular cadre based on organisational requirements and performance. Indian Air Force Agniveervayu is a recruitment opportunity for young candidates who want to join the Indian Air Force under the Agnipath scheme. Candidates are selected through the selection process, which includes an online examination followed by physical fitness testing, adaptability assessment, medical examination, document verification, etc."
+            }
+          ]
+        },
+        {
+          "id": "agniveer-vayu-air-force-syllabus",
+          "heading": "Agniveer Vayu (Air Force) Syllabus",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The syllabus should be explained according to the candidate's selected group. For the commonly used Science Subjects route, preparation covers English, Physics, and Mathematics. For the Other Than Science Subjects route, the examination includes English and Reasoning & General Awareness (RAGA). Candidates opting for both categories are required to prepare for the relevant subjects of both examinations."
+            }
+          ]
+        },
+        {
+          "id": "english",
+          "heading": "English:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Questions generally assess grammar, vocabulary, comprehension, sentence structure and the candidate's ability to understand and use English correctly. Important preparation areas include synonyms and antonyms, tenses, active and passive voice, direct and indirect speech, sentence correction, comprehension and vocabulary."
+            }
+          ]
+        },
+        {
+          "id": "physics",
+          "heading": "Physics:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Students should focus on fundamental concepts and numerical applications from areas such as mechanics, properties of matter, thermodynamics, waves, electricity, magnetism, optics and modern physics. Strong conceptual understanding and regular numerical practice are important."
+            }
+          ]
+        },
+        {
+          "id": "mathematics",
+          "heading": "Mathematics:",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Important areas include algebra, trigonometry, coordinate geometry, calculus, vectors, probability, statistics and other topics prescribed for the examination. Students should focus on understanding concepts, solving questions quickly and improving calculation accuracy."
+            }
+          ]
+        },
+        {
+          "id": "reasoning-general-awareness-raga-for-non-technical",
+          "heading": "Reasoning & General Awareness (RAGA): (For Non-Technical)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "This section covers reasoning ability along with general awareness. Preparation can include verbal and non-verbal reasoning, current affairs, history, geography, basic science, civics and other relevant general-awareness topics."
+            }
+          ]
+        },
+        {
+          "id": "types-of-air-force-agniveer-vayu",
+          "heading": "Types of Air Force Agniveer Vayu",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Airforce X Group – Technical: For candidates with a Science background, mainly"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Physics and Mathematics."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Airforce Y Group – Non-Technical: For candidates applying for non-technical roles and"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "support duties."
+            }
+          ]
+        },
+        {
+          "id": "air-force-eligibility-criteria",
+          "heading": "Air Force Eligibility Criteria",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "To apply online for the Air Force or Agniveervayu candidates need to meet the eligibilities meet by the Indian Air Force."
+            }
+          ]
+        },
+        {
+          "id": "1-nationality",
+          "heading": "1. Nationality",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "The candidate must be an Indian citizen or a Gorkha (subject of Nepal)."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2-age-limit",
+          "heading": "2. Age Limit",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "10+2 candidates: 17 to 21 years; only unmarried candidates are eligible.",
+                "Diploma/B.Pharma/B.Sc. in Pharmacy candidates: 19 to 24 years.",
+                "For married candidates in this category, the age should be 21 to 24 years.",
+                "At the time of enrolment, the maximum age is 21 years for 10+2 candidates and 24"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "years for Diploma/B.Pharma/B.Sc. in Pharmacy candidates."
+            }
+          ]
+        },
+        {
+          "id": "3-educational-qualification-10-2",
+          "heading": "3. Educational Qualification – 10+2",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates must have:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Passed 10+2/Intermediate or equivalent with Physics, Chemistry, Biology and English.",
+                "Secured at least 50% marks in aggregate and 50% marks in English.",
+                "Candidates with a two-year vocational course with non-vocational subjects (Physics,",
+                "Chemistry, Biology and English) can also apply, subject to the prescribed marks"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "requirement."
+            }
+          ]
+        },
+        {
+          "id": "4-educational-qualification-pharmacy",
+          "heading": "4. Educational Qualification – Pharmacy",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates with Diploma/B.Pharma/B.Sc. in Pharmacy must:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Have passed 10+2 with Physics, Chemistry, Biology and English.",
+                "Score at least 50% marks in aggregate and 50% in English.",
+                "Hold a Diploma/B.Pharma/B.Sc. in Pharmacy with at least 50% marks.",
+                "Have valid registration with the State Pharmacy Council or Pharmacy Council of India"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "(PCI) at the time of enrolment."
+            }
+          ]
+        },
+        {
+          "id": "physical-fitness-test-pft",
+          "heading": "Physical Fitness Test (PFT)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates who clear the online test are shortlisted for the Physical Fitness Test (PFT) at the designated Air Force Selection Centre (ASC). The PFT is conducted in two stages – PFT-I and PFT-II."
+            }
+          ]
+        },
+        {
+          "id": "pft-i-1-6-km-run",
+          "heading": "PFT-I: 1.6 Km Run",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates must complete a 1.6 km run within the given time: Candidate Maximum Time Male 7 minutes Female 8 minutes Note: Only candidates who qualify the run can appear for PFT-II."
+            }
+          ]
+        },
+        {
+          "id": "pft-ii-physical-exercises",
+          "heading": "PFT-II: Physical Exercises",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates who clear PFT-I get 10 minutes of rest before starting PFT-II."
+            }
+          ]
+        },
+        {
+          "id": "for-male-candidates",
+          "heading": "For Male Candidates:",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "10 Push-ups – within 1 minute",
+                "10 Sit-ups – within 1 minute",
+                "20 Squats – within 1 minute"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "A 2-minute break is given between the push-ups and sit-ups, and between the sit-ups and squats."
+            }
+          ]
+        },
+        {
+          "id": "for-female-candidates",
+          "heading": "For Female Candidates:",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "10 Sit-ups – within 1 minute 30 seconds",
+                "15 Squats – within 1 minute"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Female candidates get a 10-minute break after the run and a 2-minute break before the squats. However, candidates are advised to carry suitable sports shoes and shorts/track pants for the physical test."
+            }
+          ]
+        },
+        {
+          "id": "mandatory-medical-standards",
+          "heading": "Mandatory Medical Standards",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates must meet the prescribed Air Force medical standards to be considered fit for Agniveer Vayu recruitment. The main requirements are given below."
+            }
+          ]
+        },
+        {
+          "id": "height",
+          "heading": "Height",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Male candidates: Minimum height of 152 cm.",
+                "Female candidates: Minimum height of 152 cm.",
+                "Female candidates from North East or hilly regions of Uttarakhand can have a minimum"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "height of 147 cm."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Candidates from Lakshadweep can have a minimum height of 150 cm."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Note: Candidates claiming height relaxation must provide the required domicile certificate during Phase-II testing."
+            }
+          ]
+        },
+        {
+          "id": "weight",
+          "heading": "Weight",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The candidate's weight should be proportionate to their height and age as per Air Force standards."
+            }
+          ]
+        },
+        {
+          "id": "chest",
+          "heading": "Chest",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Male candidates: Minimum chest circumference should be 77 cm, with at least 5 cm"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "expansion."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Female candidates: The chest should be well developed with a minimum 5 cm"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "expansion."
+            }
+          ]
+        },
+        {
+          "id": "hearing",
+          "heading": "Hearing",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates should have normal hearing and must be able to hear a forced whisper from 6 metres with each ear separately."
+            }
+          ]
+        },
+        {
+          "id": "dental-health",
+          "heading": "Dental Health",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates should have healthy gums, good teeth and at least 14 dental points."
+            }
+          ]
+        },
+        {
+          "id": "general-health",
+          "heading": "General Health",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates must be physically and mentally fit for Air Force duties. They should not have any significant deformity, serious medical or surgical condition, communicable disease, infection or skin-related illness. They must be fit to serve in different climates and terrains."
+            }
+          ]
+        },
+        {
+          "id": "vision-standards",
+          "heading": "Vision Standards",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The notification specifies:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Visual acuity: 6/12 in each eye, correctable to 6/6 in each eye",
+                "Hypermetropia: Maximum +2.0D",
+                "Myopia: Maximum 1D",
+                "Astigmatism: Up to ±0.50D as specified",
+                "Colour Vision: CP-II"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Note: Candidates using spectacles should carry a recent eye prescription. The notification also states that LASIK/PRK surgery is not acceptable."
+            }
+          ]
+        },
+        {
+          "id": "indian-air-force-exam-schedule",
+          "heading": "Indian Air Force Exam Schedule",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Air Force conducts the Agniveervayu selection test for different intakes, and the exact examination dates are announced with the respective notification. Exam Name Exam Date Agniveervayu Selection Test March Agniveervayu Selection Test September"
+            }
+          ]
+        },
+        {
+          "id": "documents-required",
+          "heading": "Documents Required",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates should keep the required documents ready before filling out the application form. Commonly required documents include:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Aadhaar Card or other valid ID proof",
+                "Class 10th certificate/marksheet",
+                "Class 12th marksheet/certificate",
+                "Recent passport-size photograph",
+                "Signature",
+                "Category certificate, if applicable",
+                "Domicile certificate, if required",
+                "Other documents mentioned in the official notification"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "how-to-apply-for-air-force-recruitment",
+          "heading": "How to Apply for Air Force Recruitment?",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates can apply online through the official Agniveer Vayu portal. Keep all required documents and scanned images ready before starting the application."
+            }
+          ]
+        },
+        {
+          "id": "simple-application-steps",
+          "heading": "Simple Application Steps",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Visit the official Agniveer Vayu website and start the online registration.",
+                "Enter your personal and educational details correctly.",
+                "Upload the required 10th certificate, 10+2/Diploma/Vocational marksheet, and"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Domicile/COAFP certificate, as applicable."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Upload a recent passport-size colour photograph in the prescribed format.",
+                "Upload your left-hand thumb impression and signature.",
+                "Upload additional qualification or skill certificates, if applicable.",
+                "Pay the online examination fee of ₹550 + GST.",
+                "Submit the application and keep a copy of the form and payment details for future use."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "air-force-selection-process",
+          "heading": "Air Force Selection Process",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The selection process depends on the entry. For Agniveervayu, candidates generally go through the following stages:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Online Written Examination",
+                "Physical Fitness Test",
+                "Adaptability Tests",
+                "Medical Examination",
+                "Document Verification",
+                "Final Merit List"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "For entries such as NDA and AFCAT, the selection process is different and may include a written examination followed by SSB interview, medical examination, and final merit, as applicable. How Prince Defence Academy Sikar Prepares Students for Agniveervayu (Air Force) Prince Defence Academy offers subject-wise classroom teaching to students under the guidance of Retired Indian Air Force officers. Means the actual training of the Indian Air Force starts from PDA Sikar. Prince Academy focuses on both quality learning and physical fitness. Regular classes, practice sessions, physical training, doubt-solving, and performance evaluation help students prepare systematically for their Air Force recruitment journey."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Indian Navy Agniveer",
+      "slug": "navy",
+      "category": "Indian Navy",
+      "image": "/images/navy.webp",
+      "contentNote": "The Indian Navy is the maritime branch of the Indian Armed Forces responsible for protecting the country's maritime interests and securing its sea borders. It plays an important role in national defence, maritime security, disaster relief and safeguarding India's interests at sea.",
+      "sections": [
+        {
+          "id": "overview",
+          "heading": "Overview",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Indian Navy is the maritime branch of the Indian Armed Forces responsible for protecting the country's maritime interests and securing its sea borders. It plays an important role in national defence, maritime security, disaster relief and safeguarding India's interests at sea."
+            }
+          ]
+        },
+        {
+          "id": "indian-navy-and-the-agniveer-scheme",
+          "heading": "Indian Navy and the Agniveer Scheme",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "To provide young candidates with an opportunity to serve in the Armed Forces, the Indian Navy recruits eligible candidates under the Agniveer scheme. Under this scheme, candidates are selected for a fixed period of service and receive military training, practical experience and various benefits during their tenure."
+            }
+          ]
+        },
+        {
+          "id": "types-of-indian-navy-agniveer-entries",
+          "heading": "Types of Indian Navy Agniveer Entries",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates can join the Indian Navy through different Agniveer entries based on their educational qualifications and eligibility. The major entries include:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Agniveer SSR (Senior Secondary Recruit)",
+                "Agniveer MR (Matric Recruit)",
+                "Agniveer Apprentice"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "indian-navy-agniveer-syllabus",
+          "heading": "Indian Navy Agniveer Syllabus",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Indian Navy Agniveer syllabus covers subjects designed to test candidates' basic academic knowledge, reasoning ability and general awareness. The subjects vary according to the type of Agniveer entry, such as SSR, MR and Apprentice."
+            }
+          ]
+        },
+        {
+          "id": "type-wise-indian-navy-agniveer-subjects",
+          "heading": "Type-Wise Indian Navy Agniveer Subjects",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Agniveer Entry Subjects Agniveer SSR English, Science, Mathematics, General Awareness Agniveer MR Science & Mathematics, General Awareness Agniveer Apprentice Subjects as prescribed in the respective recruitment notification"
+            }
+          ]
+        },
+        {
+          "id": "agniveer-navy-eligibility-criteria",
+          "heading": "Agniveer (Navy) Eligibility Criteria",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates must fulfil the prescribed educational, physical, medical, visual and height requirements to apply for the Agniveer recruitment. The eligibility conditions may vary depending on the post, such as SSR, MR or Apprentice."
+            }
+          ]
+        },
+        {
+          "id": "educational-qualification-agniveer-ssr",
+          "heading": "Educational Qualification – Agniveer (SSR)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates applying for Agniveer SSR must meet any one of the following educational requirements:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Passed Class 12th (10+2) with Mathematics and Physics from a school education board"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "recognised by the Ministry of Education, Government of India, with at least 50% marks in aggregate."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Passed a three-year Diploma in Engineering from a Central, State or UT-recognised"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Polytechnic Institute with at least 50% marks in aggregate. The diploma should be in Mechanical, Electrical, Automobiles, Computer Science, Instrumentation Technology or Information Technology."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Passed a two-year Vocational Course with Physics and Mathematics as non-vocational"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "subjects from an education board recognised by the Central, State or UT Government, securing at least 50% marks in aggregate."
+            }
+          ]
+        },
+        {
+          "id": "educational-qualification-agniveer-mr",
+          "heading": "Educational Qualification – Agniveer (MR)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Passed Matriculation (Class 10th) with at least 50% marks in aggregate from a school"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "education board recognised by the Ministry of Education, Government of India."
+            }
+          ]
+        },
+        {
+          "id": "educational-qualification-agniveer-apprentice",
+          "heading": "Educational Qualification – Agniveer (Apprentice)",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Passed Matriculation (Class 10th) with at least 50% marks in aggregate from a board"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "recognised by the Ministry of Education, Government of India."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Completed a three-year Diploma in Engineering from an AICTE-recognised Polytechnic"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Institute with at least 50% marks in aggregate."
+            },
+            {
+              "type": "list",
+              "items": [
+                "The diploma can be in any of the following disciplines:"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "engineering",
+          "heading": "Engineering",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Marine Engineering & Systems, Mechanical, Production/Automobile, Refrigeration and"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Air Conditioning, Repair and Maintenance, Power Plant Engineering, Industrial/Production, Maintenance, Machine, Manufacturing/Manufacturing Technology, Mechatronics, Metallurgy, Instrumentation, Electronics Instrumentation and Control Engineering."
+            }
+          ]
+        },
+        {
+          "id": "electrical",
+          "heading": "Electrical",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Electrical, Electronics & Communication, Instrumentation Technology, Electronics,"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Electrical and Electronics, Electronics Instrumentation and Control Engineering."
+            }
+          ]
+        },
+        {
+          "id": "physical-standards",
+          "heading": "Physical Standards",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Qualifying in the Physical Fitness Test (PFT) is compulsory for selection. The required standards are: Gender 1.6 km Run Squat s Push-up s Bent Knee Sit-ups Male 6 min 30 sec 20 15 15 Female 8 min 15 10 10"
+            }
+          ]
+        },
+        {
+          "id": "visual-standards",
+          "heading": "Visual Standards",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The prescribed visual standards are: Uncorrected Vision Corrected Vision Colour Perception 6/12, 6/12 6/6, 6/6 II"
+            }
+          ]
+        },
+        {
+          "id": "minimum-height-requirement",
+          "heading": "Minimum Height Requirement",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The minimum height required for both male and female Agniveer candidates is 157 cm. Candidates belonging to certain specified regions may receive relaxation in the minimum height requirement. Category Minimum Height Tribals from Ladakh 155 cm Andaman & Nicobar, Lakshadweep and Minicoy Islands 155 cm Gorkhas, Nepali, Assamese, Garhwali, Kumaoni and Uttarakhand candidates 152 cm Bhutan, Sikkim and North East Region 152 cm"
+            }
+          ]
+        },
+        {
+          "id": "indian-navy-agniveer-medical-test",
+          "heading": "Indian Navy Agniveer Medical Test",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The medical examination checks whether candidates are physically and medically fit for service in the Indian Navy. During the test, candidates are examined for height, weight, eyesight, hearing, general physical condition, and other medical parameters as prescribed by the Navy. Doctors may also check the heart, lungs, teeth, joints, and overall fitness, along with any condition that could affect the candidate's ability to perform military duties. Candidates must meet the prescribed medical and visual standards to qualify."
+            }
+          ]
+        },
+        {
+          "id": "indian-navy-exam-schedule",
+          "heading": "Indian Navy Exam Schedule",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The examination schedule for Indian Navy Agniveer and Indian Air Force Agniveervayu is released through their respective recruitment notifications. Since dates can change for different intakes, candidates should always check the latest official notification before applying. Exam Name Exam Date Agniveer SSR – INET May Agniveer MR – INET May Agniveer Apprentice – INET August"
+            }
+          ]
+        },
+        {
+          "id": "documents-required-for-indian-navy-agniveer-recruitment",
+          "heading": "Documents Required for Indian Navy Agniveer Recruitment",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Class 10th marksheet and certificate",
+                "Class 12th marksheet and certificate, if applicable",
+                "Diploma or vocational course certificate, if applicable",
+                "Aadhaar Card or other valid identity proof",
+                "Domicile certificate, wherever required",
+                "Recent passport-size photographs",
+                "Scanned signature",
+                "Caste/category certificate, if applicable",
+                "Mobile Number, ETC."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "how-to-apply-online-for-indian-navy-agniveer-recruitment",
+          "heading": "How to Apply Online for Indian Navy Agniveer Recruitment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Eligible candidates can submit their applications online through the official Indian Navy recruitment portal. Applicants should carefully enter their details and upload the required documents in the prescribed format."
+            }
+          ]
+        },
+        {
+          "id": "steps-to-apply-online",
+          "heading": "Steps to apply online:",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Visit the official Indian Navy recruitment website.",
+                "Complete the registration using the required details.",
+                "Log in and fill out the online application form.",
+                "Enter personal, educational and other required information.",
+                "Upload the necessary documents, photograph and signature.",
+                "Pay the application fee, if applicable.",
+                "Check all details carefully before final submission.",
+                "Submit the application form and save a copy for future reference."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "indian-navy-agniveer-selection-process",
+          "heading": "Indian Navy Agniveer Selection Process",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Indian Navy Agniveer selection process is conducted in different stages to assess a candidate's academic ability, physical fitness and medical suitability. Candidates must qualify at each applicable stage to move ahead in the recruitment process."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Computer-Based Examination: Candidates appear for the written examination as"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "prescribed for their respective entry."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Physical Fitness Test (PFT): Candidates who qualify the required stage undergo the"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "prescribed physical fitness test."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Medical Examination: Candidates are examined according to the medical standards"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "prescribed by the Indian Navy."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Document Verification: Candidates are required to produce their original documents for"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "verification."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Merit List: The final selection is made based on the applicable merit, vacancies, and"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "recruitment rules. How Prince Defence Academy Prepares Candidates for Indian Navy Agniveer? Prince Defence Academy focuses on both written exam preparation and physical fitness to help candidates become ready for the Indian Navy Agniveer selection process. Students receive subject-wise classes, regular practice and mock tests, along with physical training to improve their speed, stamina and overall fitness. The academy also provides guidance and doubt-solving support so candidates can prepare with better confidence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Indian Army Agniveer",
+      "slug": "army",
+      "category": "Indian Army",
+      "image": "/images/army.webp",
+      "contentNote": "The Indian Army offers young candidates an opportunity to serve in the armed forces through the Agniveer recruitment under the Agnipath Scheme. The notification provided for the Recruiting Year 2027 is issued by Headquarters Recruiting Zone, Jaipur, and invites applications from unmarried female candidates from all districts of Rajasthan for the Agniveer General Duty (Women Military Police) category. Under this scheme, selected Agniveers are enrolled in the Indian Army for a period of four years and receive military training according to Army requirements",
+      "sections": [
+        {
+          "id": "overview",
+          "heading": "Overview",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Indian Army offers young candidates an opportunity to serve in the armed forces through the Agniveer recruitment under the Agnipath Scheme. The notification provided for the Recruiting Year 2027 is issued by Headquarters Recruiting Zone, Jaipur, and invites applications from unmarried female candidates from all districts of Rajasthan for the Agniveer General Duty (Women Military Police) category. Under this scheme, selected Agniveers are enrolled in the Indian Army for a period of four years and receive military training according to Army requirements"
+            }
+          ]
+        },
+        {
+          "id": "indian-army-agniveer-syllabus",
+          "heading": "Indian Army Agniveer Syllabus",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The recruitment notification describes the Common Entrance Examination (CEE) as an objective, computer-based test consisting of multiple-choice questions. Depending on the category, candidates may have to answer 50 questions in one hour or 100 questions in two hours. The paper is conducted in 13 languages, including English and Hindi. In Army question paper, questions are asked from subjects like Mathematics, General Knowledge or General Science. However the question paper is prepared on 10th level."
+            }
+          ]
+        },
+        {
+          "id": "exam-pattern",
+          "heading": "Exam Pattern",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "The CEE is conducted in MCQ format.",
+                "Candidates may have to attempt 50 questions in 1 hour or 100 questions in 2 hours,"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "depending on the category."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Correct answers receive the prescribed marks.",
+                "There are no marks for unanswered questions.",
+                "Questions marked for review are evaluated if they have been attempted.",
+                "CEE marks are normalised to account for differences in difficulty between sessions.",
+                "Candidates using unfair means can have their candidature cancelled."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "eligibility-criteria-for-indian-army-agniveer",
+          "heading": "Eligibility Criteria for Indian Army Agniveer",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "It is mandatory for the candidates to meet the requirements set by the Indian Army to apply for the written or physical examinations. Here is the eligibility criteria for Army Agniveer:-"
+            }
+          ]
+        },
+        {
+          "id": "educational-qualification",
+          "heading": "Educational Qualification",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "For Agniveer General Duty (Women Military Police), candidates must have passed Class 10th/Matriculation with at least 45% marks in aggregate in five basic subjects and a minimum of 33% marks in each of those five subjects. Candidates who have appeared in the Class 10 board examination and are waiting for their results can also apply, subject to fulfilling the other requirements. However, they must produce the original marksheet during Phase II."
+            }
+          ]
+        },
+        {
+          "id": "age-limit",
+          "heading": "Age Limit",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Applicants' age should be 17½ to 22 years.",
+                "For the 2027 recruiting year, candidates born between 01 July 2005 and 01 July 2009,"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "both dates inclusive, are eligible according to the notification. Army Indian"
+            },
+            {
+              "type": "list",
+              "items": [
+                "The upper age limit can be relaxed up to 30 years for widows of Defence personnel who"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "died in harness, subject to the conditions mentioned in the notification."
+            }
+          ]
+        },
+        {
+          "id": "marital-status",
+          "heading": "Marital Status",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Only unmarried candidates are eligible for enrolment as Agniveers. Selected candidates have to undertake not to marry during the four-year engagement period. The eligibility conditions for widowed, divorced or legally separated women, including conditions relating to children and remarriage."
+            }
+          ]
+        },
+        {
+          "id": "indian-army-agniveer-physical-standards",
+          "heading": "Indian Army Agniveer Physical Standards",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates have to meet the prescribed physical standards before moving ahead in the recruitment process. Physical Standard Requirement Height 162 cm Weight Proportionate to height and age as per Army Medical Standards Chest Expansion 5 cm However, 4 cm height relaxation for candidates belonging to specified regions and categories, including the North East Region, Gorkhas, Garhwalis, Ladakhis and tribals of recognised tribal areas. Domicile and caste certificates are considered when deciding whether a relaxation applies. Certain categories, including eligible widows of Defence personnel and outstanding sportswomen, may also receive specified relaxation in physical standards when they provide the required supporting documents."
+            }
+          ]
+        },
+        {
+          "id": "physical-fitness-test",
+          "heading": "Physical Fitness Test",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Physical Fitness Test is conducted during Phase II at the Recruitment Rally. The notification lists the following activities:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "1.6 km Run",
+                "7 ft Ditch",
+                "Zig-Zag Balance",
+                "Pull-Ups"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "For the 1.6 km run, the notification gives two groups: Group"
+            },
+            {
+              "type": "list",
+              "items": [
+                "6 km Run"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Marks Group I Up to 7 min 30 sec 60 Group II 7 min 31 sec to 8 min 48 Candidates must also qualify in the 7 ft ditch and zig-zag balance. The pull-up table provides marks based on the number of pull-ups, ranging from 1 to 5, with 5 pull-ups carrying 40 marks. The running timings and marks may be changed before the recruitment rally, so candidates should check the official Army website before appearing for the rally."
+            }
+          ]
+        },
+        {
+          "id": "indian-army-agniveer-medical-test",
+          "heading": "Indian Army Agniveer Medical Test",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates who qualify in the Physical Fitness Test and Physical Measurement Test are required to undergo a medical examination by the Army Medical Team at the recruitment rally. The medical examination is conducted according to Army medical standards and applicable policies. The medical assessment can include checking important aspects such as:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Physical measurements and weight",
+                "Vision",
+                "Flat feet",
+                "Physical deformities",
+                "General medical fitness",
+                "Other standards prescribed by the Army Medical authorities"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Candidates need to go for medical check-up before attending the recruitment process, particularly for flat feet, poor vision, deformities and physical measurements. It also advises candidates to ensure their ears are free of wax. Army Indian Documents Required for Indian Army Agniveer Recruitment Candidates shortlisted for Phase II need to carry the required documents in original along with two attested photocopies. Important documents include:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Phase-II Admit Card",
+                "Class 10th/educational certificates and marksheets",
+                "Aadhaar Card",
+                "PAN Card",
+                "Domicile/Nativity/Permanent Residence Certificate",
+                "Caste Certificate, wherever applicable",
+                "Religion Certificate, if required",
+                "Police Character Certificate issued within the prescribed period",
+                "School Character Certificate",
+                "Character Certificate issued by the prescribed local authority",
+                "Unmarried Certificate",
+                "Required photographs",
+                "NCC certificates, if claiming NCC bonus marks",
+                "Sports certificates, if claiming sports-related benefits",
+                "Relationship Certificate, wherever applicable",
+                "Required affidavit on non-judicial stamp paper",
+                "Any other certificate required for claiming relaxation or bonus marks"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "how-to-apply-for-indian-army-agniveer-recruitment",
+          "heading": "How to Apply for Indian Army Agniveer Recruitment",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Eligible candidates can apply online through the Join Indian Army website by following"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "these simple steps:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Create a Profile: Visit the recruitment portal, check your eligibility and register using your"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "personal and educational details."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Fill the Application Form: Enter your details carefully. Your name, parents’ names and"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "date of birth should match your Class 10 certificate. Aadhaar number, mobile number and email ID are also required."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Upload Photograph: Upload a recent and clear photograph that matches your"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "appearance."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Choose Exam Centres: Select five preferred examination centres from the available"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "options."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Pay the Fee: Pay the ₹250 examination fee per category, along with applicable bank"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "charges, using the available payment methods."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Submit the Form: Check all details carefully before final submission. Save the application"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "form and login details for future use."
+            }
+          ]
+        },
+        {
+          "id": "indian-army-agniveer-exam-date",
+          "heading": "Indian Army Agniveer Exam Date",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Indian Army Agniveer Exam Date is an important event for the candidates. However, the exam date for the Indian Army Agniveer is not fixed. Here is the expected exam schedule based on the previous records. Even Date Application Form Dates February to April Exam Date June to July Admit Card One Week before the Exam Date"
+            }
+          ]
+        },
+        {
+          "id": "indian-army-agniveer-selection-process",
+          "heading": "Indian Army Agniveer Selection Process",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Indian Army Agniveer selection process is conducted in two main phases, followed by the final merit:"
+            }
+          ]
+        },
+        {
+          "id": "phase-i-online-common-entrance-examination",
+          "heading": "Phase I – Online Common Entrance Examination",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates first appear for the Online Common Entrance Examination (CEE). Based on their performance, cut-off, and available vacancies, shortlisted candidates are called for the next stage."
+            }
+          ]
+        },
+        {
+          "id": "phase-ii-recruitment-rally",
+          "heading": "Phase II – Recruitment Rally",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Shortlisted candidates attend the Recruitment Rally, which includes:",
+                "Physical Fitness Test: Physical Measurement Test & Medical Examination",
+                "The Physical Fitness Test includes a 1.6 km run, pull-ups, 7 ft ditch and zig-zag balance."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Candidates who qualify proceed to the medical examination."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Final Merit: Final selection is based on merit and available vacancies. Candidates who"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "successfully clear all required stages are considered for the final merit list. Eligible candidates may also receive bonus marks for qualifications such as NCC certificates, eligible sports achievements and specified defence-family relationships."
+            }
+          ]
+        },
+        {
+          "id": "how-prince-defence-academy-supports-defence-aspirants",
+          "heading": "How Prince Defence Academy Supports Defence Aspirants",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Preparing for a defence recruitment is not limited to clearing the written examination. Prince Defence Academy focuses on developing students across different stages of preparation, including academics, physical fitness, discipline and regular practice. With a planned preparation approach, mock tests, physical training and continuous guidance, the academy helps aspirants build the confidence and readiness required to face defence recruitment examinations and selection stages."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Staff Selection Commission (SSC)",
+      "slug": "ssc",
+      "category": "SSC Recruitment",
+      "image": "/images/scc.webp",
+      "contentNote": "The Staff Selection Commission (SSC) is a central government organisation that conducts various competitive exams for recruitment to Group B and Group C posts in ministries, departments, and offices of the Government of India. Every year, lakhs of candidates appear for SSC exams such as CGL, CHSL, GD, MTS, CPO, and JE for government job opportunities.",
+      "sections": [
+        {
+          "id": "overview",
+          "heading": "Overview",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Staff Selection Commission (SSC) is a central government organisation that conducts various competitive exams for recruitment to Group B and Group C posts in ministries, departments, and offices of the Government of India. Every year, lakhs of candidates appear for SSC exams such as CGL, CHSL, GD, MTS, CPO, and JE for government job opportunities."
+            }
+          ]
+        },
+        {
+          "id": "exams-conducted-by-ssc",
+          "heading": "Exams Conducted by SSC",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The Staff Selection Commission conducts several national-level recruitment exams for different government posts. The educational qualification varies by exam, from 10th pass to graduation, depending on the post. Exam Name / Post Educational Qualification SSC CGL – Group B & C Posts Graduation SSC CHSL – LDC, JSA, DEO 12th Pass SSC MTS – Multi-Tasking Staff 10th Pass SSC GD Constable – CAPFs & Rifleman 10th Pass SSC CPO – Sub-Inspector in Delhi Police & CAPFs Graduation SSC JE – Junior Engineer Diploma/Degree in Engineering SSC Stenographer – Grade C & D 12th Pass SSC Selection Post – Various Posts 10th/12th/Graduation, as per post SSC JHT – Junior Hindi Translator Post Graduation + required language qualification SSC Scientific Assistant – IMD Degree in Science/Computer Science/IT SSC SI – Sub-Inspector in Delhi Police Graduation SSC Constable (Executive) – Delhi Police 12th Pass"
+            }
+          ]
+        },
+        {
+          "id": "ssc-syllabus",
+          "heading": "SSC Syllabus",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The SSC syllabus covers subjects such as Quantitative Aptitude, General Intelligence & Reasoning, English Language, and General Awareness. Tier 2 additionally includes Computer Knowledge and some advanced topics. Subject Topics Name Quantitative Aptitude Number System, Simplification, Percentage, Ratio & Average, Age, SI & CI, Profit & Loss, Partnership, Mixture & Alligation, Time & Work, Speed, Time & Distance, Algebra, Geometry, Mensuration, Trigonometry, Coordinate Geometry, Data Interpretation & Statistics. Tier 2: Mean, Median, Mode, Standard Deviation & Probability. General Intelligence & Reasoning Analogy, Classification, Series, Coding-Decoding, Syllogism, Venn Diagram, Blood Relations, Ranking, Seating Arrangement, Statement & Conclusion, Direction, Dice & Cube, Calendar, Clock, Inequality, Non-Verbal Reasoning, Puzzles, Data Sufficiency, Logical & Critical Thinking. Tier 2: Emotional & Social Intelligence. English Language Error Spotting, Fill in the Blanks, Synonyms & Antonyms, One-word Substitution, Idioms & Proverbs, Cloze Test, Reading Comprehension, Sentence Correction, Rearrangement, Homonyms, Homophones, Voice and Narration. General Awareness Current Affairs, History, Geography, Indian Polity, Economy, General Science, Static GK, Art & Culture. Computer Knowledge (Tier 2) Computer Fundamentals, Operating Systems, Hardware & Software, Memory, Storage, Internet, Networking, Keyboard Shortcuts, MS Office, DBMS, Computer Languages, CPU, Windows, Input & Output Devices, Cyber Security, Malicious Software and Technological Advancements."
+            }
+          ]
+        },
+        {
+          "id": "ssc-eligibility-criteria",
+          "heading": "SSC Eligibility Criteria",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates planning to appear for SSC must meet the prescribed eligibility conditions related to nationality, age, and educational qualification. The requirements may vary slightly depending on the post applied for."
+            }
+          ]
+        },
+        {
+          "id": "key-eligibility-requirements",
+          "heading": "Key Eligibility Requirements",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Nationality: Candidate must be an Indian citizen or fulfil the specified nationality"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "conditions for Nepal, Bhutan, and eligible persons of Indian origin."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Age Limit: Generally ranges from 18 to 27, 20 to 30, 18 to 30, or 18 to 32 years,"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "depending on the post."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Educational Qualification: A graduation degree from a recognised university is required"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "for most SSC posts."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Age Relaxation: Relaxation is provided to eligible reserved categories as per"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Government of India rules."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Post-Specific Requirements: Certain posts may have additional educational, physical or"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "other requirements."
+            }
+          ]
+        },
+        {
+          "id": "ssc-physical-and-medical-requirements",
+          "heading": "SSC Physical and Medical Requirements",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "SSC does not have physical or medical tests for all posts. However, certain posts such as Inspector, Sub-Inspector, and posts under specific departments may require prescribed physical standards, physical tests, and medical fitness."
+            }
+          ]
+        },
+        {
+          "id": "physical-medical-requirements",
+          "heading": "Physical & Medical Requirements",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Physical Standards: Height, chest and weight requirements may apply to specific posts.",
+                "Physical Test: Some posts may include walking, cycling, or other physical activities.",
+                "Medical Fitness: Candidates selected for posts with specific requirements must meet the"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "prescribed medical standards."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Post-Specific Rules: Physical and medical requirements vary according to the post and"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "department, so candidates should check the SSC CGL notification for the post they are applying for."
+            }
+          ]
+        },
+        {
+          "id": "documents-required-for-ssc",
+          "heading": "Documents Required for SSC",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates should keep the required documents ready while applying for SSC and during document verification. The main documents generally include:"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Aadhaar Card or other valid ID proof",
+                "10th Class Certificate/Mark Sheet – for date of birth proof",
+                "Graduation Degree/Mark Sheet",
+                "Category Certificate – SC/ST/OBC/EWS, if applicable",
+                "PwBD Certificate, if applicable",
+                "NOC for candidates working in government organisations, where required",
+                "Valid Passport-size Photograph",
+                "Scanned Signature",
+                "Other post-specific certificates, if applicable"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Note: Candidates should provide documents in the format and within the time specified by SSC."
+            }
+          ]
+        },
+        {
+          "id": "how-to-apply-for-ssc-recruitment",
+          "heading": "How to Apply for SSC Recruitment",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Candidates can apply for SSC recruitments through the SSC online portal. The application process has two main stages: One-Time Registration (OTR) and filling the examination form."
+            }
+          ]
+        },
+        {
+          "id": "step-1-complete-one-time-registration",
+          "heading": "Step 1: Complete One-Time Registration",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Visit the official SSC website and open the registration section.",
+                "Enter your basic details, such as name, date of birth, mobile number, and email ID.",
+                "Create your login credentials and complete the verification process.",
+                "Upload the required photograph and signature as per the given instructions.",
+                "Check all details carefully and submit the OTR form.",
+                "Keep your Registration Number and Password safe for future use."
+              ]
+            }
+          ]
+        },
+        {
+          "id": "step-2-fill-the-online-application-form",
+          "heading": "Step 2: Fill the Online Application Form",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Log in to the SSC portal using your registration details.",
+                "Select the relevant SSC recruitment examination.",
+                "Fill in your educational, personal, and other required details.",
+                "Select your preferred examination centre, wherever applicable.",
+                "Upload the required documents or certificates as instructed.",
+                "Review the complete application carefully before submission.",
+                "Pay the application fee, if applicable.",
+                "Submit the form and save or download the final application form/confirmation page for future"
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "reference."
+            }
+          ]
+        },
+        {
+          "id": "ssc",
+          "heading": "SSC Selection Process",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The SSC selection process includes written examinations followed by other stages where required. Candidates who qualify all applicable stages are considered for final selection."
+            },
+            {
+              "type": "list",
+              "items": [
+                "Online Examination: Appear for Tier 1 and Tier 2 exams.",
+                "Result: SSC declares the result and shortlists qualified candidates.",
+                "Physical/Medical Test: Required only for certain posts.",
+                "Document Verification: Required documents are checked.",
+                "Merit List: SSC prepares the final merit list based on performance and vacancies.",
+                "Final Selection: Selected candidates are allotted posts and departments."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Note: The above information is regarding SSC CGL recruitment. Candidates are suggested to refer to the latest official SSC notification for the particular examination."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

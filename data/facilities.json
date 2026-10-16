@@ -1,0 +1,166 @@
+{
+  "heroImage": "/images/facilities-bg.webp",
+  "facilities": [
+    {
+      "id": 1,
+      "title": "Hostel",
+      "slug": "hostel",
+      "images": [
+        "/images/hostle01.webp",
+        "/images/hostle.webp"
+      ],
+      "longDescription": "Prince Defence Academy offers a safe, comfortable, and disciplined environment, with well-maintained hostel facilities. Students will get clean rooms, individual beds, and a disciplined routine.",
+      "onHome": true,
+      "list": [
+        "Comfortable Rooms",
+        "Clean Accommodation",
+        "Guest Stay",
+        "Basic Amenities",
+        "Housekeeping"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Mess",
+      "slug": "mess",
+      "images": [
+        "/images/mess.webp",
+        "/images/mess01.webp",
+        "/images/mess02.webp",
+        "/images/mess04.webp"
+      ],
+      "longDescription": "Prince Defence Academy serves fresh, hygienic, and nutritious meals to the students. The meal is prepared in such a way so that it balances the nutrients and keeps the students fresh and energetic every day.",
+      "onHome": true,
+      "list": [
+        "Breakfast",
+        "Lunch",
+        "Evening Snacks",
+        "Dinner",
+        "Balanced Meals",
+        "Hygienic Kitchen"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Temple",
+      "slug": "temple",
+      "images": [
+        "/images/Temple.webp"
+      ],
+      "longDescription": "A temple is a place of symbol and peace. Prince Defence has a beautiful temple in its campus where students can pray and always stay positive.",
+      "onHome": true,
+      "list": [
+        "Prayer",
+        "Meditation",
+        "Spiritual Activities",
+        "Special Occasions",
+        "Peaceful Environment"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Gymnasium",
+      "slug": "gymnasium",
+      "images": [
+        "/images/gym.webp",
+        "/images/gym01.webp",
+        "/images/gym02.webp",
+        "/images/gym04.webp"
+      ],
+      "longDescription": "Prince Defence offers a well-equipped gymnasium where students can build strength, stamina, and fitness under the guidance of experts. Here, students are trained safely and regularly, turning discipline into a daily habit.",
+      "onHome": true,
+      "list": [
+        "Fitness Equipment",
+        "Strength Training",
+        "Cardio Training",
+        "Workout Area",
+        "Fitness Activities"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Library",
+      "slug": "library",
+      "images": [
+        "/images/libarary.webp",
+        "/images/library03.webp",
+        "/images/video-labirary02.webp",
+        "/images/video-labirary03.webp"
+      ],
+      "longDescription": "Prince Defence Academy offers library facilities to the students where they can read books and do self-study in a quiet corner. It helps the students for serious learning and collecting information and knowledge from books in a distraction-free environment.",
+      "onHome": true,
+      "list": [
+        "Textbooks",
+        "Reference Books",
+        "Journals",
+        "Reading Area",
+        "Digital Resources"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Events and Competitions",
+      "slug": "events-and-competitions",
+      "images": [
+        "/images/event-01.webp",
+        "/images/event-02.webp",
+        "/images/event-03.webp",
+        "/images/event-04.webp",
+        "/images/event-05.webp",
+        "/images/event-06.webp"
+      ],
+      "longDescription": "Prince Defence Academy Sikar provides a platform for students where they can show their talent by performing under pressure and celebrate each other’s wins through Events and Competitions. ",
+      "onHome": true,
+      "list": [
+        "Academic Competitions",
+        "Sports Events",
+        "Cultural Events",
+        "Debates",
+        "Quiz Competitions",
+        "Talent Shows"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Sports",
+      "slug": "sports",
+      "images": [
+        "/images/sport01.webp",
+        "/images/sport02.webp",
+        "/images/sport03.webp",
+        "/images/sport04.webp",
+        "/images/sport05.webp",
+        "/images/sport06.webp"
+      ],
+      "longDescription": "A defence is incomplete without sports, and sports are a core part of life at Prince Defense Academy. From running tracks to team games, daily play sharpens fitness, builds team spirit and teaches cadets to stay determined, win or lose.",
+      "onHome": true,
+      "list": [
+        "Outdoor Games",
+        "Sports Ground",
+        "Team Sports",
+        "Athletic Activities",
+        "Physical Training",
+        "Fitness Activities"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Physical Ground",
+      "slug": "physical-ground",
+      "images": [
+        "/images/sport03.webp",
+        "/images/sport04.webp",
+        "/images/sport02.webp"
+      ],
+      "longDescription": "Prince Defence Academy features a vast, standard physical training ground designed for rigorous defence preparation. It provides standard tracks and obstacle courses to build endurance, agility, and absolute physical readiness for defence exams.",
+      "onHome": true,
+      "list": [
+        "Running Track",
+        "Obstacle Course",
+        "Physical Drill Area",
+        "Endurance Training",
+        "Expert Coaching"
+      ]
+    }
+  ]
+}

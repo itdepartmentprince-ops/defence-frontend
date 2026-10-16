@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "id": "campus",
+      "name": "Campus",
+      "description": "Explore our academy campus and facilities.",
+      "cover": "/images/defence-campus.webp",
+      "images": [
+        {
+          "src": "/images/defence-campus.webp",
+          "alt": "Prince Defence Academy campus"
+        },
+        {
+          "src": "/images/Auditorium.webp",
+          "alt": "Prince Defence Academy building"
+        },
+        {
+          "src": "/images/Hostel.webp",
+          "alt": "Academy campus facilities"
+        },
+        {
+          "src": "/images/library.webp",
+          "alt": "Academy campus area"
+        }
+      ]
+    },
+    {
+      "id": "training",
+      "name": "Training",
+      "description": "Moments from physical and defence training.",
+      "cover": "/images/armyteam.webp",
+      "images": [
+        {
+          "src": "/images/armyteam.webp",
+          "alt": "Defence training session"
+        },
+        {
+          "src": "/images/gym.webp",
+          "alt": "Physical training session"
+        },
+        {
+          "src": "/images/nda.webp",
+          "alt": "Student training activity"
+        },
+        {
+          "src": "/images/NCC.webp",
+          "alt": "Training drill session"
+        }
+      ]
+    },
+    {
+      "id": "events",
+      "name": "Events",
+      "description": "Academy events, activities and special moments.",
+      "cover": "/images/event.webp",
+      "images": [
+        {
+          "src": "/images/event.webp",
+          "alt": "Defence academy event"
+        },
+        {
+          "src": "/images/event2.webp",
+          "alt": "Academy annual event"
+        },
+        {
+          "src": "/images/dance.webp",
+          "alt": "Academy student event"
+        },
+        {
+          "src": "/images/musicalband.webp",
+          "alt": "Cultural event at academy"
+        }
+      ]
+    },
+    {
+      "id": "achievements",
+      "name": "Achievements",
+      "description": "Celebrating achievements and success moments.",
+      "cover": "/images/army.webp",
+      "images": [
+        {
+          "src": "/images/army.webp",
+          "alt": "Student achievement at academy"
+        },
+        {
+          "src": "/images/navy.webp",
+          "alt": "Academy achievement ceremony"
+        },
+        {
+          "src": "/images/airforce.webp",
+          "alt": "Students celebrating achievement"
+        },
+        {
+          "src": "/images/ssc.webp",
+          "alt": "Defence exam success moment"
+        }
+      ]
+    }
+  ]
+}
