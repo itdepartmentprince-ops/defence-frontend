@@ -42,10 +42,14 @@ const Result = ({ category = "all" }) => {
     const filteredResults = result.result.filter((item) =>
         matchesCategory(item, activeCategory.value)
     );
-    const groupedResults = Object.groupBy(
-        filteredResults,
-        (item) => getYear(item.date)
-    );
+    const groupedResults = filteredResults.reduce((acc, item) => {
+        const year = getYear(item.date);
+        if (!acc[year]) {
+            acc[year] = [];
+        }
+        acc[year].push(item);
+        return acc;
+    }, {});
     const years = Object.keys(groupedResults).sort((first, second) =>
         second.localeCompare(first, undefined, { numeric: true })
     );
