@@ -23,6 +23,7 @@ const nextConfig = {
     basePath: basePath === "" ? undefined : basePath,
     skipTrailingSlashRedirect: true,
     images: {
+        unoptimized: true,
         formats: ["image/avif", "image/webp"],
 
         qualities: [30, 40, 55, 70, 75, 85, 90, 95, 100],
