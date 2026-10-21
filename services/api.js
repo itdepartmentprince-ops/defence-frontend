@@ -1,5 +1,8 @@
-const DEFAULT_API_URL =
-    "https://prince-defence-backend.onrender.com/api";
+const isDev = process.env.NODE_ENV !== "production";
+
+const DEFAULT_API_URL = isDev
+    ? "http://localhost:5000/api"
+    : "https://princedefence.com/test-api/api";
 
 const configuredApiUrl = (
     process.env.NEXT_PUBLIC_API_URL || DEFAULT_API_URL
