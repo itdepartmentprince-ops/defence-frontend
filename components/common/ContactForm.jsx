@@ -1,7 +1,9 @@
 "use client";
 
+import { useState } from "react";
 import {
     ArrowUpRight,
+    Loader2,
     Send,
 } from "lucide-react";
 import { toast } from "react-hot-toast";
@@ -83,18 +85,17 @@ export default function ContactForm({
         ${sizeClass.input}
     `;
 
+    const [isSubmitting, setIsSubmitting] = useState(false);
+
     async function handleSubmit(event) {
         event.preventDefault();
 
+        if (isSubmitting) return;
+
         const form = event.currentTarget;
-        const submitButton = form.querySelector(
-            'button[type="submit"]'
-        );
 
         try {
-            if (submitButton) {
-                submitButton.disabled = true;
-            }
+            setIsSubmitting(true);
 
             const formData = new FormData(form);
 
@@ -154,9 +155,7 @@ export default function ContactForm({
                     "Something went wrong. Please try again."
             );
         } finally {
-            if (submitButton) {
-                submitButton.disabled = false;
-            }
+            setIsSubmitting(false);
         }
     }
 
@@ -323,6 +322,7 @@ export default function ContactForm({
                 {/* Submit */}
                 <button
                     type="submit"
+                    disabled={isSubmitting}
                     className="
                         group flex w-full items-center justify-center gap-2
                         rounded-xl bg-(--gold) px-5 py-3.5
@@ -331,20 +331,32 @@ export default function ContactForm({
                         hover:bg-(--navy)
                         hover:-translate-y-0.5
                         disabled:cursor-not-allowed
-                        disabled:opacity-60
+                        disabled:opacity-75
                     "
                 >
-                    {buttonText}
-
-                    <ArrowUpRight
-                        size={18}
-                        aria-hidden="true"
-                        className="
-                            transition-transform duration-200
-                            group-hover:translate-x-1
-                            group-hover:-translate-y-1
-                        "
-                    />
+                    {isSubmitting ? (
+                        <>
+                            <Loader2
+                                size={18}
+                                aria-hidden="true"
+                                className="animate-spin"
+                            />
+                            <span>Submitting Enquiry...</span>
+                        </>
+                    ) : (
+                        <>
+                            {buttonText}
+                            <ArrowUpRight
+                                size={18}
+                                aria-hidden="true"
+                                className="
+                                    transition-transform duration-200
+                                    group-hover:translate-x-1
+                                    group-hover:-translate-y-1
+                                "
+                            />
+                        </>
+                    )}
                 </button>
 
                 <p className="text-center text-xs text-(--gold)">

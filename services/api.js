@@ -31,9 +31,14 @@ export const apiRequest = async (
 
     let response;
 
+    const controller = new AbortController();
+    const timeout = options.timeout || 15000;
+    const timeoutId = setTimeout(() => controller.abort(), timeout);
+
     try {
         response = await fetch(`${API_URL}${endpoint}`, {
             ...options,
+            signal: options.signal || controller.signal,
             headers: {
                 ...(options.body != null && !isFormData
                     ? { "Content-Type": "application/json" }
@@ -42,12 +47,21 @@ export const apiRequest = async (
             },
         });
     } catch (cause) {
+        if (cause.name === "AbortError") {
+            const error = new Error(
+                "Request timed out. Server database is taking too long to respond."
+            );
+            error.isTimeout = true;
+            throw error;
+        }
         const error = new Error(
             "Unable to reach the API. Please check your connection."
         );
         error.isNetworkError = true;
         error.cause = cause;
         throw error;
+    } finally {
+        clearTimeout(timeoutId);
     }
 
     const contentType =
